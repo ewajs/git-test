@@ -11,3 +11,7 @@ ul > li {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   margin-left: 40px;
 }
+
+p {
+  font-style: italic;
+}
