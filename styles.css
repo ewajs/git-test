@@ -1,0 +1,17 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+  color: red;
+  text-decoration: red underline;
+}
+ul > li {
+  color: blue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-left: 40px;
+}
+
+p {
+  font-style: italic;
+}
